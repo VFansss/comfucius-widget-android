@@ -1,5 +1,5 @@
 # comfucius-widget-android
-Display Comfucius' quotes on Android homescreen using a widget
+Display Comfucius' quotes (directly from [Comfucius Website](https://comfucius.xyz)) on Android homescreen using a widget
 
 <a href='https://play.google.com/store/apps/details?id=com.vfansss.comfuciuswidget&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width: 150px"/></a>
 
