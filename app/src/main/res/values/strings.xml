@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Comfucius</string>
+    <string name="app_name">Comfucius Widget</string>
     <string name="add_widget">Add Quote Widget</string>
     <string name="app_widget_description">Comfucius Quote Widget</string>
     <string name="loading_quote">Loading Quote…</string>

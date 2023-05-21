@@ -7,6 +7,7 @@
     android:minHeight="72.0dp"
     android:minResizeWidth="216.0dp"
     android:minResizeHeight="72.0dp"
+    android:configure="com.vfansss.comfuciuswidget.MainActivity"
     android:previewLayout="@layout/quote_widget"
     android:resizeMode="horizontal|vertical"
     android:targetCellWidth="4"
